@@ -1,1 +1,0 @@
-module "alu4r-code-go"
